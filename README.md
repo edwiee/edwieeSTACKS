@@ -1,4 +1,4 @@
-# FRONT-END STUFFS 🚀
+# FRONTEND STUFFS 🚀
 
 ### Author
 Edwin | [@edwiee](https://github.com/edwiee)
